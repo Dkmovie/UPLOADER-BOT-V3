@@ -30,7 +30,7 @@ I Am Telegram URL Uploader Bot.
  
 """
     ABOUT_TEXT = """
-**📛 My Name** : [Uploader Bot V3 🚀](http://t.me/urluploderV3_bot)
+**📛 My Name** : [𝙻𝙸𝙽𝙺 𝚃𝙾 𝙵𝙸𝙻𝙴𝚂 𝚅3 🚀](http://t.me/urluploderV3_bot)
 
 **❤️ Version** : [2.3 🔥](http://t.me/urluploderV3_bot)
 
