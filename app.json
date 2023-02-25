@@ -22,23 +22,23 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string. @BotFather",
-      "value": ""
+      "value": "6224330599:AAFX21NHuaanJ96NmTSVMVGHfPhzPegCPMw"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "14438754"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "baeb7d71bd10d8b5d8a97fce7ad9707d"
     },
     "DATABASE_URL": {
       "description": "Your Mongodb Url",
-      "value": ""
+      "value": "mongodb+srv://cccc:cccc@cluster0.7xrqyz3.mongodb.net/?retryWrites=true&w=majority"
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
-      "value": ""
+      "value": "-1001758776529"
     },
     "UPDATES_CHANNEL": {
       "description": "Your Update channel id or skip",
@@ -54,7 +54,7 @@
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": ""
+      "value": "urluploderV3_bot"
     }
   },
   "addons": [
