@@ -1,6 +1,10 @@
 ## UPLOADER BOT V3 🚀
 
-https://github.com/Dkmovie/UPLOADER-BOT-V3
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=UPLOADER+BOT+V3+!;CREATED+BY+TECHNICAL+RAVI+KOHLI!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+</p>
+
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dkmovie/UPLOADER-BOT-V3)
 
 [![logo](https://te.legra.ph/file/82c925ccc38606d837831.jpg)](https://telegram.dog/UploadLinkToFileBot)
 
